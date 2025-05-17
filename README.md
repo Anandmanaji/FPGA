@@ -1,4 +1,4 @@
-# fpga-demo
+# FPGA-demo
 FPGA
 <br>
 Name Anand Manaji
