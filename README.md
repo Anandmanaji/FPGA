@@ -1,4 +1,4 @@
-# FPGA_1
+# FPGA
 FPGA
 <br>
 Name Anand Manaji
