@@ -1,3 +1,2 @@
 # FPGA
-<br>
-Name Anand Manaji
+## Author: Anand Manaji
