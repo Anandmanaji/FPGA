@@ -20,7 +20,7 @@ The image shown below is the schematic representation of priority encoder in Xil
 ![pr_en](https://github.com/user-attachments/assets/83ca720b-1086-4914-8f82-f1198770343b)
 
 ### 3] 2x1 MUX
-<br/>
+<br>
 This project demonstrates the implementation of a 2x1 multiplexer (MUX) using Verilog HDL, simulated using Xilinx Vivado. A 2x1 multiplexer is a basic digital component that selects one of two input signals based on a single select line and routes it to the output. It serves as a fundamental building block in data routing, control logic, and processor architectures.
 
 The design was written in Verilog and verified through behavioral simulation in Vivado
